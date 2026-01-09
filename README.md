@@ -1,4 +1,2 @@
 # guicopacops
-# guicopacops
-# guicopacops
-# guicopacops
+
